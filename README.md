@@ -6,3 +6,4 @@ real time applications
 
 flowchart of machine learning
 traditional approach and ml approach
+.

@@ -13,4 +13,4 @@ https://github.com/kusumasutar/Kusuma-33864545/blob/main/kusuma.txt
 | S.no | title | link  |
 | ------ | ------ | ------ |
 | 1 | [basics]  | (https://github.com/kusumasutar/AI--ML/blob/main/assignments/Assignment_01.ipynb) |
-| 2 |     | subhasri  |
+| 2 |     |  |

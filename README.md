@@ -1,6 +1,5 @@
 # Kusuma-33864545
-kusuma.txt
-https://github.com/kusumasutar/Kusuma-33864545/blob/main/kusuma.txt
+
 | S.no | title | status | link  |
 | ------ | ------ | ------ | ------- |
 | 1 | assignment_pythonbasics |  ✅  |  [assignment1](https://github.com/kusumasutar/AI--ML/blob/main/assignments/Assignment_01.ipynb)  |
